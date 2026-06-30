@@ -26,7 +26,7 @@ The scopeof this project is:
 
 ## Project Structure
 
-│
+├── API
 ├── Lab-1/ GET
 ├── Lab-2/ POST 
 │ ├── lab2.1/
